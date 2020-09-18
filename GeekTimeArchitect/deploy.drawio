@@ -1,1 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2020-09-18T15:44:22.426Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36" version="13.7.3" etag="grCripRbYIhVZ2E37zXU" type="github"><diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">7VjbctowEP0aHmF84ZZHIJDMtCQzIW2fhbXYamSJygJDv74rW45tTGkyTUo6w5Oto/Xe98h2y5/EuxtF1tFcUuAtz6G7ln/d8jzX83y8GGSfI8OBmwOhYtQKlcCC/QQLOhbdMApJTVBLyTVb18FACgGBrmFEKZnWxVaS162uSQgNYBEQ3kS/MaojG4U3KPFbYGFUWHb7V/lOTAphG0kSESrTCuRPW/5ESanzu3g3AW6SV+Qlf272m91nxxQI/ZIH6N1uf/dpEAyGy8/pNqEwv+21XatmS/jGRnyvwiAiSluv9b5IRZKymBOBq3GkY46gi7eJRllbN/QA96RiP6XQpJAIzIIJUI/7tZHSCoyOkJPEFMc804yl8AuUhl0FsrHdgIxBqz2K2N2uTXPRZ3aZlkUbFD0VVQrmXVmQ2EYJnzWXucQbm85s+SUBdb/8btrNczhZAs8fbXk9QWLAS8vrczQwXiq8C3UWYY6wWk77Pzam/JgiLlXLH2VjQPblRvl4by0TppkUFfXoFzs00DRJTMgKVjWLMWFcy8xkD8wiV3tgdprvPFsjpW6TsyzaLPTplqBjzpxxDspWs/A3E5jM7nOYy4CU8P1qxQLMmGPrnbuSbaHqrgM7Eq85dAIZW62cBBDhFIOqTzZn4ikHIq0NOYxM+bxZmqYdqkjaYTIXPD0PXqXJ7ABVRsAWe8zinDbqpgIq/A7Ddl8xgf7lTs8o0cQUCvEErxtsnjbZIqiSNvo+6xmbGZy0r9oeujDsrEWIVtKIaVisMWA0lSK/1idPyQ2aoXaEquNkJmwut8xoyUQNMMOklUhz4k7zw4vn0OvXB7HXHER3eGQQB6+fQ1xWRvE1rOc3WK/BdiDoyJwfuFpizz49Rgx7dozwjPGiBCukNst9rlkDxcPD6gC+lOm0BMYZgBsmlyww9HhQwlfWJJEbFcAfmxkPTKJCOKmxa6eP1g7DZo0VcBzebf1svDDnXzEnTYmihjulUiwxXjbZc6yIyGSIQOJRJ5nU+yBM2j0rk7pO238rKq0zZ4Nc341KD15p3CPvNEepdPgvqbR3odKaYP9Cpeei0kdIEmPnK3696WM0evuA0DVTmDR5mkSLA/HcJNo/K4n+9wx6+DL6MSl0cKHQmuDwQqHnotAH45dzLYXMPuibFLrYJxqQR5wRjZk4yaH+B+HQ4Vk59E0+6N/vFfPqrASJUPkDNBOv/Eb2p78A</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-18T15:50:40.078Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36" etag="ZZB7l7yV-E9y8shcIVrG" version="13.7.3" type="github">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="786" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TgtkyDnedhmluCYE0485-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgtkyDnedhmluCYE0485-2" target="TgtkyDnedhmluCYE0485-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TgtkyDnedhmluCYE0485-25" value="人工操作" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TgtkyDnedhmluCYE0485-24">
+          <mxGeometry x="0.1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgtkyDnedhmluCYE0485-2" value="收款机" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="100" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TgtkyDnedhmluCYE0485-3" value="用户管理中心界面" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="100" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TgtkyDnedhmluCYE0485-7" value="订单系统" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="414" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TgtkyDnedhmluCYE0485-8" value="用户系统" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="414" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TgtkyDnedhmluCYE0485-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="334" y="140" width="280" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="TgtkyDnedhmluCYE0485-16" value="tcp/ip" style="endArrow=classic;startArrow=classic;html=1;exitX=1.017;exitY=0.55;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TgtkyDnedhmluCYE0485-3" target="TgtkyDnedhmluCYE0485-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="300" as="sourcePoint" />
+            <mxPoint x="290" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgtkyDnedhmluCYE0485-17" value="tcp/ip" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1" source="TgtkyDnedhmluCYE0485-2" target="TgtkyDnedhmluCYE0485-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="222.03999999999996" y="410" as="sourcePoint" />
+            <mxPoint x="334" y="450.8807747261469" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgtkyDnedhmluCYE0485-23" value="服务员" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TgtkyDnedhmluCYE0485-26" value="管理界面" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="670" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TgtkyDnedhmluCYE0485-27" value="tcp/ip" style="endArrow=classic;startArrow=classic;html=1;exitX=0.993;exitY=0.502;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TgtkyDnedhmluCYE0485-15" target="TgtkyDnedhmluCYE0485-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="329.56" as="sourcePoint" />
+            <mxPoint x="651.96" y="370.4407747261469" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
