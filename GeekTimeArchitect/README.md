@@ -1,1 +1,1 @@
-note for training camp
+Please open it by draw.io.
