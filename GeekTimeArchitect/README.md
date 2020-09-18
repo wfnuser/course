@@ -1,0 +1,1 @@
+note for training camp
